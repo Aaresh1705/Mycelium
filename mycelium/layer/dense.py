@@ -1,4 +1,4 @@
-# my_library/layers/dense.py
+# my_library/layer/dense.py
 
 from typing import Type
 import numpy as np

@@ -1,11 +1,11 @@
-# mycelium/models/model.py
+# mycelium/model/model.py
 import numpy as np
 from tqdm import tqdm
 
 from ..accuracy.base import Accuracy
-from ..layers.base import Layer
-from ..losses.base import Loss
-from ..optimizers.base import Optimizer
+from ..layer.base import Layer
+from ..loss.base import Loss
+from ..optimizer.base import Optimizer
 
 
 class Model:

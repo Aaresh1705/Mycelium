@@ -1,4 +1,4 @@
-# mycelium/losses/base.py
+# mycelium/loss/base.py
 
 class Loss:
     def __init__(self):

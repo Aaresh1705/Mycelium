@@ -1,9 +1,9 @@
 # mycelium/__init__.py
-from . import layers
-from . import models
+from . import layer
+from . import model
 from . import activation
-from . import optimizers
-from . import losses
+from . import optimizer
+from . import loss
 from . import accuracy
 from . import data
 from .seed import seed

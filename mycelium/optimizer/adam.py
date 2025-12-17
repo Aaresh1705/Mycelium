@@ -1,8 +1,8 @@
-# mycelium/optimizers/sdg.py
+# mycelium/optimizer/sdg.py
 
 import numpy as np
 
-from mycelium.optimizers.base import Optimizer
+from mycelium.optimizer.base import Optimizer
 
 
 class Adam(Optimizer):

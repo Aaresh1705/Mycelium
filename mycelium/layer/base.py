@@ -1,4 +1,4 @@
-# mycelium/layers/base.py
+# mycelium/layer/base.py
 
 from typing import Type
 from ..activation.base import ActivationFunction

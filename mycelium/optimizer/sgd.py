@@ -1,4 +1,4 @@
-# mycelium/optimizers/sdg.py
+# mycelium/optimizer/sdg.py
 
 from .base import Optimizer
 

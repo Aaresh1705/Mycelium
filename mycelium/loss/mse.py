@@ -1,4 +1,4 @@
-# mycelium/losses/mse.py
+# mycelium/loss/mse.py
 
 import numpy as np
 from .base import Loss

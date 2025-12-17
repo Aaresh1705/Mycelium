@@ -1,4 +1,4 @@
-# my_library/layers/input.py
+# my_library/layer/input.py
 
 import numpy as np
 from .base import Layer
