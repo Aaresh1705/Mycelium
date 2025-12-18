@@ -4,7 +4,7 @@ import numpy as np
 from .base import ActivationFunction
 
 
-class Relu(ActivationFunction):
+class ReLU(ActivationFunction):
     """
     Implementation of the Rectified Linear Unit (ReLU) activation function.
 
